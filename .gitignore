@@ -1,0 +1,16 @@
+.vs/
+**/Debug/
+**/x64/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.obj
+*.tlog/
+*.ipch
+*.recipe
+*.vsidx
+*.db
+*.db-shm
+*.db-wal
+*.log
